@@ -58,7 +58,11 @@ flyrank-ai-fluency
 │   └── assets
 │
 ├── FL-03
-│   └── README.md
+│   ├── README.md
+│   ├── proof-statement.md
+│   └── assets
+│       ├── proof-statement.png
+│       └── statement.png
 │
 ├── FL-04
 │   └── README.md
@@ -69,18 +73,15 @@ flyrank-ai-fluency
 └── ...
 ```
 
----
-
 # 📚 Assignment Progress
 
 | Assignment | Title | Status | Folder |
 |------------|-----------------------------------------------|------------|------------|
 | FL-01 | AI Workflow Audit & Tool Setup | ✅ Completed | [Open](./FL-01) |
 | FL-02 | Draw the Path: Portfolio Sitemap + Toolkit | ✅ Completed | [Open](./FL-02) |
-| FL-03 | Coming Soon | ⏳ Pending | - |
+| FL-03 | What Are You Proving? | ✅ Completed | [Open](./FL-03) |
 | FL-04 | Coming Soon | ⏳ Pending | - |
 | FL-05 | Coming Soon | ⏳ Pending | - |
-
 ---
 
 # 🛠 AI Tools Used
@@ -96,6 +97,8 @@ Throughout this internship I have worked with the following tools:
 - Lucidchart
 - Microsoft Word
 - PDF Documentation
+- Markdown
+
 
 Future assignments may include additional AI development and automation tools as required.
 
@@ -115,7 +118,8 @@ Throughout this internship I am continuously improving my skills in:
 - GitHub Documentation
 - Technical Writing
 - Workflow Optimization
-
+- AI Interviewing
+- Portfolio Positioning
 ---
 
 # 📈 Learning Philosophy
@@ -129,7 +133,8 @@ Each assignment strengthens my ability to collaborate with AI, validate ideas, i
 # 📌 Current Progress
 
 - ✅ FL-01 – AI Workflow Audit & Tool Setup
-- ✅ FL-02 – Portfolio Sitemap + Toolkit
+- ✅ FL-02 – Draw the Path: Portfolio Sitemap + Toolkit
+- ✅ FL-03 – What Are You Proving?
 - ✅ Claude Project Configuration
 - ✅ Anthropic Academy Setup
 - ✅ AI Fluency Course
