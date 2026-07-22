@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### AI Fluency Track Portfolio
+# AI Fluency Track Portfolio
 
-Documenting my learning journey, assignments, AI workflow improvements, automation projects, and practical implementations completed during the FlyRank AI Internship.
+Documenting my learning journey, assignments, AI workflow improvements, automation projects, and practical implementations completed during the **FlyRank AI Internship**.
 
 ---
 
@@ -19,9 +19,9 @@ Documenting my learning journey, assignments, AI workflow improvements, automati
 
 This repository contains all of my submissions for the **FlyRank AI Internship – AI Fluency Track**.
 
-The goal of this internship is to develop practical AI fluency by learning how to effectively collaborate with AI, identify automation opportunities, improve workflows, and build production-ready solutions using modern AI tools.
+The internship focuses on developing practical AI fluency by learning how to collaborate effectively with AI, improve workflows, automate repetitive tasks, validate ideas, and build production-ready solutions using modern AI tools.
 
-Every assignment is documented with reports, supporting evidence, and learning outcomes to demonstrate continuous improvement throughout the internship.
+Each assignment is documented with supporting evidence, screenshots, reports, and learning outcomes to demonstrate continuous improvement throughout the internship.
 
 ---
 
@@ -39,18 +39,23 @@ Every assignment is documented with reports, supporting evidence, and learning o
 
 # 📂 Repository Structure
 
-```
+```text
 flyrank-ai-fluency
 │
 ├── README.md
 │
 ├── FL-01
 │   ├── README.md
-│   ├── AI Workflow Audit
-│   └── Supporting Assets
+│   ├── AI_Workflow_Audit_FlyRank_FL-01.pdf
+│   ├── AI_Workflow_Audit_FlyRank_FL-01.docx
+│   └── assets
 │
 ├── FL-02
-│   └── README.md
+│   ├── README.md
+│   ├── sitemap.png
+│   ├── claude-project.png
+│   ├── pressure-test.png
+│   └── assets
 │
 ├── FL-03
 │   └── README.md
@@ -58,34 +63,41 @@ flyrank-ai-fluency
 ├── FL-04
 │   └── README.md
 │
-└── FL-05
-    └── README.md
+├── FL-05
+│   └── README.md
+│
+└── ...
 ```
 
 ---
 
 # 📚 Assignment Progress
 
-| Assignment | Title | Status |
-|------------|-------------------------------|------------|
-| FL-01 | AI Workflow Audit & Tool Setup | ✅ Completed |
-| FL-02 | Coming Soon | ⏳ Pending |
-| FL-03 | Coming Soon | ⏳ Pending |
-| FL-04 | Coming Soon | ⏳ Pending |
-| FL-05 | Coming Soon | ⏳ Pending |
+| Assignment | Title | Status | Folder |
+|------------|-----------------------------------------------|------------|------------|
+| FL-01 | AI Workflow Audit & Tool Setup | ✅ Completed | [Open](./FL-01) |
+| FL-02 | Draw the Path: Portfolio Sitemap + Toolkit | ✅ Completed | [Open](./FL-02) |
+| FL-03 | Coming Soon | ⏳ Pending | - |
+| FL-04 | Coming Soon | ⏳ Pending | - |
+| FL-05 | Coming Soon | ⏳ Pending | - |
 
 ---
 
 # 🛠 AI Tools Used
 
+Throughout this internship I have worked with the following tools:
+
 - ChatGPT
 - Claude AI
+- Gemini
+- Perplexity AI
 - Anthropic Academy
 - GitHub
+- Lucidchart
 - Microsoft Word
 - PDF Documentation
 
-Future assignments may also include additional AI development and automation tools as required.
+Future assignments may include additional AI development and automation tools as required.
 
 ---
 
@@ -108,15 +120,18 @@ Throughout this internship I am continuously improving my skills in:
 
 # 📈 Learning Philosophy
 
-My objective is not only to complete internship assignments but also to understand how AI can improve software engineering, automation, documentation, and decision-making while maintaining human responsibility for quality, ethics, and final outcomes.
+My objective is not only to complete internship assignments but also to develop practical AI fluency through real-world problem solving.
+
+Each assignment strengthens my ability to collaborate with AI, validate ideas, improve workflows, automate repetitive tasks, and document solutions professionally while maintaining human responsibility for quality, ethics, and final decision making.
 
 ---
 
 # 📌 Current Progress
 
-- ✅ AI Workflow Audit
-- ✅ Claude Project Setup
-- ✅ Anthropic Academy
+- ✅ FL-01 – AI Workflow Audit & Tool Setup
+- ✅ FL-02 – Portfolio Sitemap + Toolkit
+- ✅ Claude Project Configuration
+- ✅ Anthropic Academy Setup
 - ✅ AI Fluency Course
 - 🔄 Continuing remaining internship assignments
 
@@ -128,7 +143,7 @@ Hi, I'm **Mukim Shah**.
 
 I work on AI automation, AI agents, backend development, workflow automation, and software engineering.
 
-This repository serves as a public record of my internship work, documenting both my technical progress and my understanding of practical AI collaboration.
+This repository serves as a public record of my internship journey, showcasing both my technical progress and my practical understanding of AI collaboration.
 
 ---
 
@@ -138,16 +153,26 @@ This repository is intended to:
 
 - Track internship progress
 - Showcase assignment quality
+- Demonstrate practical AI collaboration
 - Build a professional AI portfolio
-- Demonstrate practical AI skills
-- Maintain organized documentation
+- Document learning outcomes
+- Maintain organized project documentation
+- Share reproducible internship work publicly
+
+---
+
+# 📜 License
+
+This repository is intended for educational and portfolio purposes as part of the **FlyRank AI Internship – AI Fluency Track**.
 
 ---
 
 <div align="center">
 
-### 🚀 FlyRank AI Internship – AI Fluency Track
+## 🚀 FlyRank AI Internship – AI Fluency Track
 
-Building practical AI skills through real-world assignments and continuous learning.
+**Building practical AI skills through real-world assignments, continuous learning, and responsible AI collaboration.**
+
+⭐ If you find this repository helpful, feel free to explore the completed assignments.
 
 </div>
